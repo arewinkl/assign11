@@ -31,7 +31,9 @@ In order to get this __Note Taker__ to work, the first task was to download and 
 ## ScreenShots
 
 Here are a few screenshots that I took throughout this homework assignment:
-
+![screen shot](public/assets/images/notetaker1.png)
+![screen shot](public/assets/images/notetaker2.png)
+![screen shot](public/assets/images/notetaker3.png)
 
 ---
 
@@ -52,7 +54,7 @@ I will say that just like every assignment that we have tackled in this class, t
 ## Gif
 
 Here is the Team Builder in action:
-
+![screen shot](public/assets/images/note-taker.gif)
 
 ---
 
