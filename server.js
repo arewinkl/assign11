@@ -33,7 +33,7 @@ app.delete("/api/notes/:id", (req, res) => {
     res.json(getJson());
 });
 
-app.listen(port, () => console.log("Example app listening at http://localhost:${port}"));
+app.listen(port, () => console.log("Example app listening at http://localhost:" + (port)));
 
 function getJson() {
     let data = fs.readFileSync(__dirname + "/db/db.json");
